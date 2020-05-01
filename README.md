@@ -1,5 +1,3 @@
-[image1]: './img/Prediction of Confirmed Cases for India.jpg' "Prediction of Confirmed Cases for India"
-
 # Analysis of COVID-19 data
 
 In this Repository we will analyze the growth and statistics of COVID-19 pandemic spread. I have collected the data from [Kaggle dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv). This data provides the daily information on the number of COVID affected cases through the world.
@@ -39,6 +37,6 @@ The following visualizations shows the Top 15 countries Recovered and Deaths Com
 
 Also we predicted the Confirmed cases for next 15 days using the `Average Growth Factor`.
 
-![Prediction of Confirmed cases of India][image1]
+![Prediction of Confirmed cases of India](img/Prediction_of_Confirmed_Cases_for_India.jpg)
 
 **This is a very basic analysis. We can use much for effective methods to predict the cases.**
